@@ -1,1 +1,1 @@
-# Eccentric_offset_functions
+# Numerical methods in astronomy
